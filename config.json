@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerdarse",
+        "uuid": 293355,
+        "checksum": "hx4m5o"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
